@@ -1,2 +1,2 @@
 # hello-world
-Final Project
+Final Project for CSCI 1020
